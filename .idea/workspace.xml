@@ -1,0 +1,1088 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c06c414c-dad2-4e7a-9dc3-5c5d367532d9" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="mavenweb" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/autoMentionTest/java/test/testng/TestngDemo4.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="18" column="33" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/autoMentionTest/java/test/testng/TestngDemo3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="16" column="10" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/autoMentionTest/java/test/ReadExcel/ExcelTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="456">
+              <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/longteng/httpclient/gas/GetToken.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/longteng/httpclient/gas/BindCard.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="70" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/longteng/httpclient/gas/UpoldTest1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="20" column="38" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="58" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/longteng/httpclient/gas/UpLoadFileGroup.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="125">
+              <caret line="42" column="26" selection-start-line="42" selection-start-column="17" selection-end-line="42" selection-end-column="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <dirStrings>
+      <dir>D:\intellijaspace</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/notices_announcements/panels/AnnouncementsDetailPanel.java" />
+        <option value="$PROJECT_DIR$/src/cloud/gui/element/ManageAppPanel.java" />
+        <option value="$PROJECT_DIR$/src/cloud/gui/element/AllAppPanel.java" />
+        <option value="$PROJECT_DIR$/src/salary/element/ImportPayrollPanel.java" />
+        <option value="$PROJECT_DIR$/src/autoMentionTest/java/test/panel/RedProperties.java" />
+        <option value="$PROJECT_DIR$/src/autoMentionTest/java/base/MyWebElement.java" />
+        <option value="$PROJECT_DIR$/src/autoMentionTest/java/base/MyWebDriver.java" />
+        <option value="$PROJECT_DIR$/src/HttpClientDemo/HttpClientTest.java" />
+        <option value="$PROJECT_DIR$/src/studyJava/Student.java" />
+        <option value="$PROJECT_DIR$/src/studyJava/Student2.java" />
+        <option value="$PROJECT_DIR$/src/studyJava/testdemo1.java" />
+        <option value="$PROJECT_DIR$/element.properties" />
+        <option value="$PROJECT_DIR$/src/studyJava/cn/itcast01/Animal.java" />
+        <option value="$PROJECT_DIR$/src/studyJava/cn/itcast01/Dog.java" />
+        <option value="$PROJECT_DIR$/src/studyJava/cn/itcast01/Cat.java" />
+        <option value="$PROJECT_DIR$/src/studyJava/cn/itcast01/AnimalFactory.java" />
+        <option value="$PROJECT_DIR$/src/studyJava/cn/itcast01/AnimalDemo.java" />
+        <option value="$PROJECT_DIR$/src/autoMentionTest/java/test/panel/LtSelenium.java" />
+        <option value="$PROJECT_DIR$/src/autoMentionTest/java/test/panel/CourseList.java" />
+        <option value="$PROJECT_DIR$/user.properties" />
+        <option value="$PROJECT_DIR$/src/autoMentionTest/java/test/testng/DataProviderTest.java" />
+        <option value="$PROJECT_DIR$/src/autoMentionTest/java/test/panel/ProUtil.java" />
+        <option value="$PROJECT_DIR$/src/autoMentionTest/java/test/panel/SeleniumMaven.java" />
+        <option value="$PROJECT_DIR$/src/com/logteng/httpclient/HeaderTest.java" />
+        <option value="$PROJECT_DIR$/src/com/logteng/httpclient/QueryPage.java" />
+        <option value="$PROJECT_DIR$/src/com/longteng/httpclient/gas/BindCard.java" />
+        <option value="$PROJECT_DIR$/src/com/longteng/httpclient/gas/QueryCard.java" />
+        <option value="$PROJECT_DIR$/src/com/longteng/httpclient/gas/UploadTest1.java" />
+        <option value="$PROJECT_DIR$/src/com/longteng/httpclient/gas/GetToken.java" />
+        <option value="$PROJECT_DIR$/src/com/longteng/httpclient/gas/UpoldTest1.java" />
+        <option value="$PROJECT_DIR$/src/com/longteng/httpclient/gas/UpLoadFileGroup.java" />
+        <option value="$PROJECT_DIR$/src/com/longteng/httpclient/gas/JsonTest.java" />
+        <option value="$PROJECT_DIR$/src/com/longteng/httpclient/gas/LoginTest.java" />
+        <option value="$PROJECT_DIR$/src/com/longteng/httpclient/gas/UploadTest3.java" />
+        <option value="$PROJECT_DIR$/src/com/longteng/httpclient/gas/CookieTest.java" />
+        <option value="$PROJECT_DIR$/src/autoMentionTest/java/test/testng/TestNgDemo.java" />
+        <option value="$PROJECT_DIR$/src/autoMentionTest/java/test/testng/test1.java" />
+        <option value="$PROJECT_DIR$/src/com/longteng/httpclient/gas/HttpTest1.java" />
+        <option value="$PROJECT_DIR$/testng.xml" />
+        <option value="$PROJECT_DIR$/src/autoMentionTest/java/test/testng/TestngDemo2.java" />
+        <option value="$PROJECT_DIR$/NewFile1.xml" />
+        <option value="$PROJECT_DIR$/src/autoMentionTest/java/test/testng/TestngDemo3.java" />
+        <option value="$PROJECT_DIR$/src/autoMentionTest/java/test/Log/LogTest.java" />
+        <option value="$PROJECT_DIR$/src/autoMentionTest/java/test/testng/ExcelTest.java" />
+        <option value="$PROJECT_DIR$/src/autoMentionTest/java/test/ReadExcel/CellUnit.java" />
+        <option value="$PROJECT_DIR$/src/autoMentionTest/java/test/ReadExcel/WorkBookEhi.java" />
+        <option value="$PROJECT_DIR$/src/autoMentionTest/java/test/ReadExcel/ExcelTest.java" />
+        <option value="$PROJECT_DIR$/src/autoMentionTest/java/test/testng/TestngDemo4.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../apache-maven-3.5.3/apache-maven-3.5.3" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.5.3\apache-maven-3.5.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="maven-web" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="maven-web" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1133" />
+    <option name="y" value="61" />
+    <option name="width" value="1340" />
+    <option name="height" value="790" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <hideEmptyPackages ProjectPane="false" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="Course" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="mavenweb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="intellijaspace" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/drivers" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2551724" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="autoMentionTest.java.base" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\intellijaspace\drivers" />
+      <recent name="D:\intellijaspace\moco" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.ExcelTest">
+    <configuration name="ExcelTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="autoMentionTest.java.test.ReadExcel.ExcelTest" />
+      <module name="intellijaspace" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="autoMentionTest.java.test.ReadExcel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DataProviderTest.test2" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="intellijaspace" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="autoMentionTest.java.test.ReadExcel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="autoMentionTest.java.test.testng" />
+      <option name="MAIN_CLASS_NAME" value="autoMentionTest.java.test.testng.DataProviderTest" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestngDemo2.test3" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="intellijaspace" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="autoMentionTest.java.test.ReadExcel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="autoMentionTest.java.test.testng" />
+      <option name="MAIN_CLASS_NAME" value="autoMentionTest.java.test.testng.TestngDemo2" />
+      <option name="METHOD_NAME" value="test3" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestngDemo3.test1" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="intellijaspace" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="autoMentionTest.java.test.ReadExcel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="autoMentionTest.java.test.testng" />
+      <option name="MAIN_CLASS_NAME" value="autoMentionTest.java.test.testng.TestngDemo3" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestngDemo4.loginTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="intellijaspace" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="autoMentionTest.java.test.ReadExcel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="autoMentionTest.java.test.testng" />
+      <option name="MAIN_CLASS_NAME" value="autoMentionTest.java.test.testng.TestngDemo4" />
+      <option name="METHOD_NAME" value="loginTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ExcelTest" />
+        <item itemvalue="TestNG.TestngDemo4.loginTest" />
+        <item itemvalue="TestNG.TestngDemo3.test1" />
+        <item itemvalue="TestNG.TestngDemo2.test3" />
+        <item itemvalue="TestNG.DataProviderTest.test2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c06c414c-dad2-4e7a-9dc3-5c5d367532d9" name="Default Changelist" comment="" />
+      <created>1563953785535</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1563953785535</updated>
+      <workItem from="1563953792650" duration="794000" />
+      <workItem from="1563954847325" duration="1296000" />
+      <workItem from="1563982673002" duration="3435000" />
+      <workItem from="1564060565040" duration="13001000" />
+      <workItem from="1564109520675" duration="1238000" />
+      <workItem from="1564116401499" duration="4378000" />
+      <workItem from="1564298403407" duration="905000" />
+      <workItem from="1564320918133" duration="1309000" />
+      <workItem from="1564386604708" duration="5173000" />
+      <workItem from="1565167093988" duration="1758000" />
+      <workItem from="1565194587657" duration="4995000" />
+      <workItem from="1565270337519" duration="1241000" />
+      <workItem from="1565358825188" duration="1215000" />
+      <workItem from="1565531241819" duration="8530000" />
+      <workItem from="1566577171564" duration="3497000" />
+      <workItem from="1566664443867" duration="2344000" />
+      <workItem from="1566667201628" duration="571000" />
+      <workItem from="1566702886002" duration="4032000" />
+      <workItem from="1566837460718" duration="771000" />
+      <workItem from="1566919303542" duration="1179000" />
+      <workItem from="1567694210265" duration="4297000" />
+      <workItem from="1568037692361" duration="3828000" />
+      <workItem from="1568123525005" duration="1186000" />
+      <workItem from="1568303126342" duration="1371000" />
+      <workItem from="1568341497911" duration="1797000" />
+      <workItem from="1568548070870" duration="3431000" />
+      <workItem from="1568642385073" duration="6159000" />
+      <workItem from="1568727877528" duration="1955000" />
+      <workItem from="1568987309905" duration="1214000" />
+      <workItem from="1569142004669" duration="4233000" />
+      <workItem from="1569248759040" duration="2377000" />
+      <workItem from="1569335538266" duration="1627000" />
+      <workItem from="1569513123051" duration="933000" />
+      <workItem from="1569672147702" duration="4351000" />
+      <workItem from="1569833896109" duration="7827000" />
+      <workItem from="1570367035633" duration="1466000" />
+      <workItem from="1570452579838" duration="5123000" />
+      <workItem from="1570634268414" duration="737000" />
+      <workItem from="1571152196864" duration="3000" />
+      <workItem from="1571152417878" duration="13000" />
+      <workItem from="1571152470059" duration="6000" />
+      <workItem from="1571152581500" duration="8000" />
+      <workItem from="1571152697389" duration="686000" />
+      <workItem from="1571490306269" duration="10394000" />
+      <workItem from="1571580231788" duration="4044000" />
+      <workItem from="1571665212195" duration="5933000" />
+      <workItem from="1571748527357" duration="6630000" />
+      <workItem from="1571834753200" duration="7409000" />
+      <workItem from="1571931954125" duration="3340000" />
+      <workItem from="1572016398739" duration="4325000" />
+      <workItem from="1572020885401" duration="21000" />
+      <workItem from="1572107121452" duration="508000" />
+      <workItem from="1572107740141" duration="292000" />
+      <workItem from="1572108056475" duration="911000" />
+      <workItem from="1572108993354" duration="2129000" />
+      <workItem from="1572178690432" duration="3448000" />
+      <workItem from="1572188628889" duration="4286000" />
+      <workItem from="1572259731209" duration="9588000" />
+      <workItem from="1572357042778" duration="504000" />
+      <workItem from="1572357578954" duration="4922000" />
+      <workItem from="1572443190981" duration="6842000" />
+      <workItem from="1572538910087" duration="1958000" />
+      <workItem from="1572620329029" duration="598000" />
+      <workItem from="1572709892545" duration="1780000" />
+      <workItem from="1572712023304" duration="275000" />
+      <workItem from="1572782959014" duration="3259000" />
+      <workItem from="1572882432819" duration="778000" />
+      <workItem from="1573051545225" duration="595000" />
+      <workItem from="1573309885767" duration="2079000" />
+      <workItem from="1573385065138" duration="3994000" />
+      <workItem from="1573476567227" duration="4913000" />
+      <workItem from="1573562672532" duration="4731000" />
+      <workItem from="1573657588589" duration="4065000" />
+      <workItem from="1573742132066" duration="1604000" />
+      <workItem from="1573746401716" duration="7000" />
+      <workItem from="1573746479960" duration="62000" />
+      <workItem from="1573905422450" duration="617000" />
+      <workItem from="1573907356271" duration="164000" />
+      <workItem from="1573907552363" duration="1304000" />
+      <workItem from="1573911495285" duration="782000" />
+      <workItem from="1573987785154" duration="1238000" />
+      <workItem from="1574081291579" duration="1038000" />
+      <workItem from="1574179017118" duration="1085000" />
+      <workItem from="1574253444857" duration="2848000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="TestngDemo2_test1 - 2019.11.01 at 00h 41m 31s.xml">
+      <configuration name="TestngDemo2.test1" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestngDemo2_test2 - 2019.11.01 at 00h 43m 08s.xml">
+      <configuration name="TestngDemo2.test2" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestngDemo2_test2 - 2019.11.01 at 00h 44m 08s.xml">
+      <configuration name="TestngDemo2.test2" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestngDemo2_test3 - 2019.11.03 at 00h 24m 07s.xml">
+      <configuration name="TestngDemo2.test3" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestngDemo2_test3 - 2019.11.03 at 21h 15m 32s.xml">
+      <configuration name="TestngDemo2.test3" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestngDemo3_test1 - 2019.11.10 at 19h 26m 41s.xml">
+      <configuration name="TestngDemo3.test1" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestngDemo2_test3 - 2019.11.10 at 19h 48m 49s.xml">
+      <configuration name="TestngDemo2.test3" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestngDemo3_test1 - 2019.11.10 at 19h 53m 19s.xml">
+      <configuration name="TestngDemo3.test1" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestngDemo4_loginTest - 2019.11.11 at 23h 04m 58s.xml">
+      <configuration name="TestngDemo4.loginTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestngDemo4_loginTest - 2019.11.11 at 23h 06m 13s.xml">
+      <configuration name="TestngDemo4.loginTest" configurationId="TestNG" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="231590000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="884" y="52" width="1072" height="632" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7838617" visible="true" weight="0.12919132" />
+      <window_info id="Structure" order="1" sideWeight="0.21613833" side_tool="true" weight="0.29812983" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.5011601" side_tool="true" weight="0.14410187" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.30341113" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.31606218" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.37823835" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.38522953" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.30541012" />
+      <window_info anchor="bottom" id="Educational.CheckDetails" order="13" />
+      <window_info anchor="bottom" id="Analysis" order="14" />
+      <window_info anchor="bottom" id="Problems" order="15" weight="0.32854864" />
+      <window_info anchor="bottom" id="Thumbnails" order="16" weight="0.3298193" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24956822" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.20907298" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/autoMentionTest/java/test/panel/CourseList.java</url>
+          <line>28</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/autoMentionTest/java/test/ReadExcel/ExcelTest.java</url>
+          <line>7</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/studyJava/cn/itcast01/AnimalDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="18" column="44" selection-start-line="18" selection-start-column="44" selection-end-line="18" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/studyJava/cn/itcast01/Cat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="31" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
+          <folding>
+            <element signature="e#102#103#0" expanded="true" />
+            <element signature="e#138#139#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/studyJava/cn/itcast01/Dog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="31" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
+          <folding>
+            <element signature="e#102#103#0" expanded="true" />
+            <element signature="e#138#139#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/studyJava/cn/itcast01/Animal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="31" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_102/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="79">
+          <caret line="1248" selection-start-line="1248" selection-end-line="1248" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/4.0.0-alpha-2/selenium-api-4.0.0-alpha-2.jar!/org/openqa/selenium/WebDriver.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HttpClientDemo/QueryCard.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/logteng/httpclient/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/client/HttpClients.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-426">
+          <caret line="36" column="13" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/client/CloseableHttpClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="105" column="33" selection-start-line="105" selection-start-column="33" selection-end-line="105" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/element.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="34" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.9/httpcore-4.4.9-sources.jar!/org/apache/http/Header.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="49" column="38" selection-start-line="49" selection-start-column="38" selection-end-line="49" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HttpClientDemo/HttpClientTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="36" column="40" selection-start-line="36" selection-start-column="40" selection-end-line="36" selection-end-column="62" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/autoMentionTest/java/test/panel/ProUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="26" column="39" selection-start-line="26" selection-start-column="39" selection-end-line="26" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpmime/4.5.10/httpmime-4.5.10.jar!/org/apache/http/entity/mime/MultipartEntityBuilder.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-171">
+          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/json/json/20190722/json-20190722.jar!/org/json/JSONObject.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="143" selection-start-line="143" selection-end-line="143" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/logteng/httpclient/QueryPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="779">
+          <caret line="51" column="12" selection-start-line="51" selection-start-column="12" selection-end-line="51" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/client/CookieStore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="39" column="20" selection-start-line="39" selection-start-column="20" selection-end-line="39" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/impl/client/BasicCookieStore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="50" column="29" selection-start-line="50" selection-start-column="13" selection-end-line="50" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/longteng/httpclient/gas/QueryCard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="73" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.9/httpcore-4.4.9-sources.jar!/org/apache/http/message/BasicNameValuePair.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-59">
+          <caret line="43" column="31" selection-start-line="43" selection-start-column="13" selection-end-line="43" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.9/httpcore-4.4.9-sources.jar!/org/apache/http/NameValuePair.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="40" column="24" lean-forward="true" selection-start-line="40" selection-start-column="24" selection-end-line="40" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/4.0.0-alpha-2/selenium-api-4.0.0-alpha-2.jar!/org/openqa/selenium/Keys.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/4.0.0-alpha-2/selenium-api-4.0.0-alpha-2.jar!/org/openqa/selenium/By.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1501">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/longteng/httpclient/gas/UploadTest3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testng.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="14" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NewFile1.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/autoMentionTest/java/test/ReadExcel/CellUnit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/autoMentionTest/java/test/ReadExcel/WorkBookEhi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/autoMentionTest/java/test/testng/DataProviderTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-211">
+          <caret line="9" column="53" selection-start-line="9" selection-start-column="53" selection-end-line="9" selection-end-column="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#276#277#0" expanded="true" />
+            <element signature="e#337#338#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/autoMentionTest/java/test/testng/test1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="665">
+          <caret line="38" column="20" selection-start-line="38" selection-start-column="20" selection-end-line="38" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/autoMentionTest/java/test/testng/TestNgDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="492">
+          <caret line="151" selection-start-line="151" selection-end-line="151" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/longteng/httpclient/gas/CookieTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="37" column="71" selection-start-line="37" selection-start-column="71" selection-end-line="37" selection-end-column="71" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/autoMentionTest/java/test/testng/TestngDemo2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="779">
+          <caret line="53" column="58" selection-start-line="53" selection-start-column="58" selection-end-line="53" selection-end-column="58" />
+          <folding>
+            <element signature="e#602#603#0" expanded="true" />
+            <element signature="e#650#651#0" expanded="true" />
+            <element signature="e#696#697#0" expanded="true" />
+            <element signature="e#744#745#0" expanded="true" />
+            <element signature="e#788#789#0" expanded="true" />
+            <element signature="e#835#836#0" expanded="true" />
+            <element signature="e#883#884#0" expanded="true" />
+            <element signature="e#932#933#0" expanded="true" />
+            <element signature="e#978#979#0" expanded="true" />
+            <element signature="e#1026#1027#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/autoMentionTest/java/test/Log/LogTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/longteng/httpclient/gas/HttpTest1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="26" column="14" selection-start-line="26" selection-start-column="14" selection-end-line="26" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/autoMentionTest/java/test/panel/CourseList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="26" column="9" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/autoMentionTest/java/test/panel/LtSelenium.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-819">
+          <caret line="35" column="20" selection-start-line="35" selection-start-column="20" selection-end-line="35" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/autoMentionTest/java/test/panel/SeleniumMaven.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-914">
+          <caret line="34" column="70" selection-start-line="34" selection-start-column="70" selection-end-line="34" selection-end-column="70" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/logteng/httpclient/HeaderTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="10" selection-end-column="61" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/longteng/httpclient/gas/JsonTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-255">
+          <caret line="37" column="43" selection-start-line="37" selection-start-column="30" selection-end-line="37" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/longteng/httpclient/gas/LoginTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="48" column="32" selection-start-line="48" selection-start-column="25" selection-end-line="48" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/autoMentionTest/java/test/testng/TestngDemo4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="18" column="33" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/autoMentionTest/java/test/testng/TestngDemo3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="16" column="10" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/autoMentionTest/java/test/ReadExcel/ExcelTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/longteng/httpclient/gas/GetToken.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/longteng/httpclient/gas/BindCard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="70" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/longteng/httpclient/gas/UpoldTest1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="20" column="38" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="18" column="38" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/longteng/httpclient/gas/UpLoadFileGroup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="42" column="26" selection-start-line="42" selection-start-column="17" selection-end-line="42" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2551724" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2551724" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.39774153" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.39774153" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>intellijaspace</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2551724" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: io.opentracing:opentracing-util:0.33.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.31149426" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

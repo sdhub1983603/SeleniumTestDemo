@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+    <parameter name="i1" value="100"/>
+    <parameter name="i2" value="100"/>
+    <test verbose="5" name="Test1">
+        <classes>
+            <class name="autoMentionTest.java.test.testng.TestngDemo2"/>
+            <methods>
+                <include name="test1"/>
+            </methods>
+        </classes>
+    </test>
+
+    <test verbose="2" name="Test2">
+        <classes>
+            <class name="autoMentionTest.java.test.testng.TestngDemo2"/>
+        </classes>
+    </test>
+</suite>
